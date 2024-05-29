@@ -1,6 +1,5 @@
 # TFG - Análisis Topológico en CNNs
 
-Descripción del Proyecto:
 Este trabajo de fin de grado explora la evolución y estructura de los filtros en redes neuronales convolucionales (CNN) mediante técnicas avanzadas de visualización y análisis de datos como PCA, UMAP y Vietoris-Rips. Se investiga cómo la definición y especificidad de los filtros mejoran con el aumento de epochs, impactando positivamente en la precisión del modelo.
 
 ## Requisitos de Instalación
